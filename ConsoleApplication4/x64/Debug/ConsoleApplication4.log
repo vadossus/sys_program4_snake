@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Vadim\source\repos\ConsoleApplication4\ConsoleApplication4.cpp(191,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication4.vcxproj -> C:\Users\Vadim\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
